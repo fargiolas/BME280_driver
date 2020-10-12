@@ -49,6 +49,8 @@
 #ifndef BME280_H_
 #define BME280_H_
 
+#include "os_type.h"
+
 /*! CPP guard */
 #ifdef __cplusplus
 extern "C" {
